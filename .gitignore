@@ -22,7 +22,28 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-#*.cs
+
+
+# Models and Texture files
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.iff
+*.rgb
+*.pdd
+
+*.fbx
+*.obj
+*.abc
+*.3ds
+*.dae
+*.x3d
 
 # Unity3D generated meta files
 *.pidb.meta
