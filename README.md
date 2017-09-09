@@ -11,3 +11,5 @@
 - design system for managing/creating your own battalion, squads, and the hierarchies involved. (UI for players and back-end data)
 
 Will try and keep this updated with current objectives to keep the project moving forward. : )
+
+### **This repository will not contain any "art" assets (textures, models, sounds) becuase these types of files tend to be large. This repository is for maintaining unity scenes, prefabs, materials, and code files. Art will be maintained on Google Drive and should be pulled from there.**
