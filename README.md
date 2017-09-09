@@ -1,7 +1,7 @@
 # Fortress Game (Unity Engine)
 **Multiplayer FPS Game that is centered around building up your own personal army and fortresses with your friends**
 
-##To do:
+## To do:
 - design FPS controller with ability to change between standing, crouching, and prone states
 - design basic weapon interactions (client side) for good player feedback and responsiveness
 - create models of players, weapons, intractable objects, and fortress building components (walls, barriers, bunkers, etc.)
