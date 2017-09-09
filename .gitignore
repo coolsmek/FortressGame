@@ -4,7 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-
+/Assets/Art/
 # Visual Studio 2015 cache directory
 /.vs/
 
@@ -25,25 +25,25 @@ ExportedObj/
 
 
 # Models and Texture files
-*.psd
-*.png
-*.jpg
-*.jpeg
-*.tga
-*.bmp
-*.tif
-*.tiff
-*.gif
-*.iff
-*.rgb
-*.pdd
+#*.psd
+#*.png
+#*.jpg
+#*.jpeg
+#*.tga
+#*.bmp
+#*.tif
+#*.tiff
+#*.gif
+#*.iff
+#*.rgb
+#*.pdd
 
-*.fbx
-*.obj
-*.abc
-*.3ds
-*.dae
-*.x3d
+#*.fbx
+#*.obj
+#*.abc
+#*.3ds
+#*.dae
+#*.x3d
 
 # Unity3D generated meta files
 *.pidb.meta
